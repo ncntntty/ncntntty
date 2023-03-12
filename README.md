@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! I'm Pavlo
 
-<img width="300" height="300" align="left" src="https://user-images.githubusercontent.com/124896171/224577332-6f18495f-f5f9-48d5-bdd7-ca1c14577198.gif" />
+<img width="280" height="280" align="left" src="https://user-images.githubusercontent.com/124896171/224577332-6f18495f-f5f9-48d5-bdd7-ca1c14577198.gif" />
 
 <h3>I'm a self-taught developer</h3>
 <p>
